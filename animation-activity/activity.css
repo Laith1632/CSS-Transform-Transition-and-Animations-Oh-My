@@ -28,8 +28,10 @@ nav {
 }
 
 @keyframes top {
-  from {}
-  to {}
+  from {margin-top: 100%;
+    width: 300%}
+  to {
+  }
 }
 
 @keyframes middle {
